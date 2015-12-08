@@ -10,6 +10,8 @@ namespace BugTracker
     /// <summary>
     /// This demonstrates how the application can be launched in a K console application. 
     /// k run command in the application folder will invoke this.
+    /// test this on git
+    /// karthic testing
     /// </summary>
     public class Program
     {

@@ -11,6 +11,7 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         // Add MVC services to the services container
+        //update this file
         services.AddMvc();
 
         //Add all SignalR related services to IoC.
